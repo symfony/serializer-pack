@@ -1,6 +1,6 @@
 {
     "name": "symfony/serializer-pack",
-    "type": "metapackage",
+    "type": "symfony-pack",
     "license": "MIT",
     "description": "A pack for the Symfony serializer",
     "require": {
