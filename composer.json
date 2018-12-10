@@ -7,9 +7,8 @@
         "php": "^7.0",
         "doctrine/annotations": "^1.0",
         "phpdocumentor/reflection-docblock": "^3.0|^4.0",
-        "symfony/cache": "^3.3|^4.0",
-        "symfony/property-access": "^3.3|^4.0",
-        "symfony/property-info": "^3.3|^4.0",
-        "symfony/serializer": "^3.3|^4.0"
+        "symfony/property-access": "*",
+        "symfony/property-info": "*",
+        "symfony/serializer": "*"
     }
 }
