@@ -6,7 +6,7 @@
     "require": {
         "php": "^7.0",
         "doctrine/annotations": "^1.0",
-        "phpdocumentor/reflection-docblock": "^3.0|^4.0",
+        "phpdocumentor/reflection-docblock": "*",
         "symfony/property-access": "*",
         "symfony/property-info": "*",
         "symfony/serializer": "*"
