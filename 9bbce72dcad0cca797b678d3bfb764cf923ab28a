@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------
+
+by xabbuh at 2020-03-27T17:42:50Z
+
+@Nyholm That's fine, Composer will choose a version of the package matching the PHP version locally installed.
+
+---------------------------------------------------------------------------
+
+by Nyholm at 2020-03-27T17:44:06Z
+
+Yes. I just wanted to make sure there were no BC breaks in the API.
+
+Im 👍
