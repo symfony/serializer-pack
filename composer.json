@@ -6,8 +6,12 @@
     "require": {
         "doctrine/annotations": "^1.0",
         "phpdocumentor/reflection-docblock": "*",
+        "phpstan/phpdoc-parser": "*",
         "symfony/property-access": "*",
         "symfony/property-info": "*",
         "symfony/serializer": "*"
+    },
+    "conflict": {
+        "symfony/property-info": "<5.4"
     }
 }
