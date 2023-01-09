@@ -4,7 +4,7 @@
     "license": "MIT",
     "description": "A pack for the Symfony serializer",
     "require": {
-        "doctrine/annotations": "^1.0",
+        "doctrine/annotations": "^2.0",
         "phpdocumentor/reflection-docblock": "*",
         "phpstan/phpdoc-parser": "*",
         "symfony/property-access": "*",
